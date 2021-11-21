@@ -7,6 +7,6 @@ import org.springframework.web.bind.annotation.RestController;
 public class IndexController {
     @GetMapping("/")
     public String index() {
-        return "github-webhook项目首页12";
+        return "github-webhook项目首页1234";
     }
 }
